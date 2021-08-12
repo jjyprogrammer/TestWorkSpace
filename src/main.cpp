@@ -1,7 +1,7 @@
 #include <iostream>
 
 
-vod featureDev() 
+void featureDev() 
 {
     std::cout << "dev.feature.jjy" << std::endl;
 }
@@ -13,6 +13,6 @@ void newFeature()
 
 int main(int argc, char * )
 {
-    
+    std::cout << "hello world" << std::endl;
     return 0;
 }
