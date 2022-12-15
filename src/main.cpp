@@ -6,6 +6,10 @@ void featureDev()
     std::cout << "dev.feature.jjy" << std::endl;
 }
 
+void testRebase()
+{
+    std::cout << "test rebase " << std::endl;
+}
 
 int main(int argc, char * )
 {
